@@ -1,0 +1,148 @@
+.navbar {
+	background: transparent linear-gradient(270deg, #029CDC 0%, #0536A0 100%) 0% 0% no-repeat padding-box;
+	min-height: 40px;
+}
+
+.img-fluid {
+	background-color: dodgerblue;
+	margin-top: -17px;
+}
+
+.glyphicon {
+	color: white;
+}
+
+.nav .navbar-nav .navbar-right {
+	color: white;
+}
+
+.navbar-brand {
+	padding: 0 10px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.txt {
+	color: white;
+	position: absolute;
+	top: 200px;
+	bottom: 200px;
+	left: 800px;
+	right: 500px;
+}
+
+.column {
+	width: 33.3%;
+	padding: 5px;
+}
+
+.row {
+	width: 600px;
+}
+
+.img-fluid1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+.plan {
+	margin-left: 40px;
+	top: 709px;
+	left: 62px;
+	width: 400px;
+	height: 450px;
+	background: transparent
+		linear-gradient(180deg, #0383CD 0%, #0453B0 100%) 0% 0% no-repeat
+		padding-box;
+	border: 1px solid #707070;
+	opacity: 1;
+}
+
+.img-fluid2 {
+	margin-left: 100px;
+	margin-top: 50px;
+	top: 769px; left : 176px; width : 470px; height : 428px;
+	border: 1px solid #707070;
+	opacity: 1;
+	left: 176px;
+	width: 470px;
+	height: 428px;
+}
+
+.data {
+	margin-left: 450px;
+	margin-top: -40px;
+	width: 500px;
+	height: 246px;
+	font: normal normal normal 18px/27px Poppins;
+	letter-spacing: -0.25px;
+	color: #A1A1A1;
+}
+
+.app {
+	top: 1291px;
+	width: 100%;
+	height: 200px;
+	background: transparent
+		linear-gradient(89deg, #0361B8 0%, #0361B8 36%, #02315C 100%) 0% 0%
+		no-repeat padding-box;
+	opacity: 1;
+}
+
+.img-fluid3 {
+	top: 1300px;
+	width: 100%;
+	height: 100%;
+	opacity: 10;
+	background: transparent;
+}
+
+.footer {
+	color: white;
+	word-spacing: 10px;
+	margin-left: 50px;
+}
+
+.plane1 {
+	margin-top: 50px;
+	margin-right: 45px;
+	width: 100%;
+	height: 200px;
+	background: #001F41 0% 0% no-repeat padding-box;
+	opacity: 10;
+}
+
+.inputs {
+	margin-left: 600px;
+	margin-top: -300px;
+	
+}
+.input{
+	margin-left: 700px;
+	opacity:1;
+	border-bottom-width: 20px;
+	width: 100;
+}
+
+.icon {
+	margin-left: 930px;
+	margin-top: -20px;
+}
+
+.line {
+	margin-top: -150px;
+}
+
+.text1 {
+	color: white;
+}
+
+.h1 {
+	color: white;
+}
+
+.a {
+	color: white;
+}
